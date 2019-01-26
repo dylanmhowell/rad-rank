@@ -46,15 +46,21 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048,
+              maxWidth: 1800,
             },
           },
           {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {
               destinationDir: 'static',
-            }
-          }
+            },
+          },
+          {
+            resolve: 'gatsby-plugin-mailchimp',
+            options: {
+      endpoint: 'https://radrank.us20.list-manage.com/subscribe/post?u=762e018ed253f5e41e66253f8&amp;id=be607bc46c', // from html form embed
+    },
+  },
         ],
       },
     },
