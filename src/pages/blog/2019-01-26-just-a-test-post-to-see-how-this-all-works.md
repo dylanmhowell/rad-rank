@@ -8,3 +8,5 @@ tags:
   - 'Post tag #2'
 ---
 This is the body of the post. I'm just going to put two sentences here to see how it is displayed.
+
+![Alt text for the image.](/img/corey.jpg "Image Title")
