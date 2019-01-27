@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: SEO Services
-image: /img/analytics-chart-data-97080.jpg
+image: /img/achievement-agreement-arms-1068523.jpg
 heading: Our Goal
 description: >-
   Through years of SEO consulting for photographers, we've dialed in a recipe
@@ -56,29 +56,26 @@ main:
     can help you build it.
   image1:
     alt: ''
-    image: /img/27279.jpg
+    image: /img/adults-analysis-brainstorming-1661004.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/blurred-background-coffee-cup-computer-908284.jpg
   image3:
     alt: Coffee beans
-    image: /img/1984-toyota-land-cruiser-front.jpg
+    image: /img/business-camera-coffee-1509428.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: '-Joe '
+    quote: 'Dylan ranked my site #1 for every keyword in three days!  '
+  - author: Gretta
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      I had a 45 minute call with Corey and my site went from page 10 to page 1
+      in the first 12 minutes!
+full_image: /img/agenda-analysis-business-990818.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Rad SEO Packages
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We've spent years perfecting these packages to get the most long term
+    benefit.
   plans:
     - description: A full SEO audit and recap call to discuss results.
       items:
@@ -90,13 +87,32 @@ pricing:
         - and 45 minute recap video.
       plan: Audit + Recap
       price: '900'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: >-
+        This package is designed to setup a marketing strategy that brings long
+        term growth. We tackle the technical and have regular calls to refine
+        the digital marketing techniques for your market.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
+        - Google Search Console and Analytics setup
+        - keyword research
+        - backlink report
+        - website and brand audit
+        - audit dashboard with explanation videos
+        - five 45 minute strategy calls
+        - and two hours of SEO implementation per month
+      plan: Audit + Consulting
+      price: '1900'
+    - description: The package for competitive markets and larger projects.
+      items:
+        - Google Search Console and Analytics setup
+        - keyword research
+        - backlink report
+        - website and brand audit
+        - audit dashboard with explanation videos
+        - >-
+          and 5 45 minute strategy calls with both Dylan and Corey. We also do
+          four hours of SEO implementation per month.
+      plan: Audit + Premium Consulting
+      price: '3200'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
